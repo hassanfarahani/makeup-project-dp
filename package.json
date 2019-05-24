@@ -1,0 +1,19 @@
+{
+  "name": "makeup-project",
+  "version": "1.0.0",
+  "description": "search for makeup products",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "makeup-project"
+  },
+  "author": "Hassan Farahani",
+  "license": "ISC",
+  "homepage": "https://hassanfarahani.github.io/makeup-project",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
